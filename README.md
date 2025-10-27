@@ -49,3 +49,36 @@ By accurately capturing user needs, Requirement Analysis ensures the final produ
 A well-defined set of requirements serves as a roadmap for system design and a benchmark for testing. It ensures that developers build the right features and testers validate the correct functionalities.
 
 In essence, **Requirement Analysis is the backbone of successful software development** — it ensures that every team member knows what to build, why it’s needed, and how success will be measured.
+
+## Key Activities in Requirement Analysis
+
+Requirement Analysis involves a series of structured activities aimed at understanding what a system must accomplish and ensuring those needs are well-documented and validated. The following are the five key activities carried out during this phase:
+
+- ### **1. Requirement Gathering**
+  This is the initial step where information is collected from stakeholders, users, and clients to understand their expectations and business needs.  
+  **Purpose:** To obtain all possible inputs related to system goals, features, and constraints.  
+  **Techniques:** Interviews, questionnaires, brainstorming sessions, observation, and document analysis.
+
+- ### **2. Requirement Elicitation**
+  This activity focuses on uncovering the actual needs of stakeholders — even those they may not explicitly state.  
+  **Purpose:** To identify hidden or implicit requirements and ensure no critical aspect is overlooked.  
+  **Techniques:** Workshops, focus groups, prototyping, and use-case analysis.
+
+- ### **3. Requirement Documentation**
+  All gathered and elicited requirements are documented in a structured format, typically within a **Software Requirement Specification (SRS)** document.  
+  **Purpose:** To provide a clear and formal reference for designers, developers, and testers throughout the project lifecycle.  
+  **Outcome:** A comprehensive and well-organized requirement document approved by all stakeholders.
+
+- ### **4. Requirement Analysis and Modeling**
+  This involves evaluating, refining, and organizing the documented requirements to ensure they are clear, consistent, complete, and feasible.  
+  **Purpose:** To transform raw requirements into structured models (like data flow diagrams or UML diagrams) for better understanding.  
+  **Focus:** Identifying dependencies, prioritizing features, and resolving conflicts between requirements.
+
+- ### **5. Requirement Validation**
+  Validation ensures that the documented requirements accurately reflect user needs and align with business objectives.  
+  **Purpose:** To confirm that requirements are correct, testable, and implementable within project constraints.  
+  **Techniques:** Reviews, walkthroughs, inspections, and prototype evaluations.
+
+In summary, these activities collectively ensure that the software development process begins with a clear, validated, and actionable understanding of what the end product should achieve.
+
+
