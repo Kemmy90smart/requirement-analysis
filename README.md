@@ -166,3 +166,9 @@ Below is a sample use case diagram showing the relationship between system actor
 ![Booking Management System Use Case Diagram](alx-booking-uc.png)
 
 *Figure: Use Case Diagram for the Booking Management System*
+
+### Use Case Diagram Example
+
+Below is the use case diagram for the booking management system:
+
+![Booking System Use Case Diagram](https://github.com/Kemmy90smart/requirement-analysis/blob/main/alx-booking-uc.png)
