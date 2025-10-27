@@ -82,3 +82,48 @@ Requirement Analysis involves a series of structured activities aimed at underst
 In summary, these activities collectively ensure that the software development process begins with a clear, validated, and actionable understanding of what the end product should achieve.
 
 
+## Types of Requirements
+
+In software development, requirements are generally classified into two main categories — **Functional Requirements** and **Non-functional Requirements**.  
+Both types are essential to ensure that the system performs as expected and delivers a great user experience.
+
+---
+
+### **1. Functional Requirements**
+
+**Definition:**  
+Functional Requirements describe **what the system should do** — the specific behaviors, features, and functions it must perform to meet user needs. They define the interactions between the system and its users or other systems.
+
+**Examples (for the Booking Management System):**
+- Users should be able to **create an account** and log in securely.
+- The system should allow users to **search for available rooms or services** by date, type, or location.
+- Users should be able to **book, modify, or cancel reservations** online.
+- The system should **send email or SMS notifications** after successful booking or cancellation.
+- Administrators should be able to **view all bookings**, update availability, and generate reports.
+- Payment gateways should **process online payments** securely and confirm successful transactions.
+
+**Purpose:**  
+To ensure that every user action and system response needed to achieve the project’s goals is clearly defined and implemented.
+
+---
+
+### **2. Non-functional Requirements**
+
+**Definition:**  
+Non-functional Requirements specify **how the system should perform** rather than what it does. They define quality attributes such as performance, usability, security, and reliability that make the system efficient and user-friendly.
+
+**Examples (for the Booking Management System):**
+- The system should **load search results within 3 seconds**.
+- The platform must be **available 99.9% of the time** to ensure continuous service.
+- All user data should be **encrypted using SSL/TLS protocols** for secure transactions.
+- The system should support **at least 1,000 concurrent users** without performance degradation.
+- The user interface must be **responsive and mobile-friendly**, working seamlessly across devices.
+- The system should include **role-based access control** to restrict unauthorized operations.
+
+**Purpose:**  
+To define the system’s operational qualities and ensure that it provides a reliable, secure, and satisfying experience for users.
+
+---
+
+In summary, **Functional Requirements** define the system’s **capabilities**, while **Non-functional Requirements** define the system’s **qualities**.  
+Both are essential for delivering a well-rounded and successful Booking Management System.
