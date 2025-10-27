@@ -167,3 +167,30 @@ Below is a sample use case diagram showing the relationship between system actor
 
 *Figure: Use Case Diagram for the Booking Management System*
 
+## Acceptance Criteria
+
+### What is Acceptance Criteria?
+Acceptance Criteria are the specific conditions that a software product must satisfy to be accepted by the client, user, or stakeholders. They define what needs to be true for a feature or user story to be considered complete and functioning as expected. 
+
+### Importance of Acceptance Criteria in Requirement Analysis
+Acceptance Criteria are important because they:
+- **Ensure clarity:** They clearly describe the expected behavior of the system, reducing ambiguity between clients, developers, and testers.  
+- **Serve as a validation tool:** They help determine whether the developed software meets the user requirements.  
+- **Guide development and testing:** They act as a checklist for developers to build against and for testers to verify functionality.  
+- **Prevent scope creep:** By clearly outlining the "done" conditions, they help control changes and expectations during the project lifecycle.  
+
+### Example: Acceptance Criteria for the Checkout Feature in the Booking Management System
+**Feature:** Checkout process for booking payments
+
+**Acceptance Criteria:**
+1. The system should allow users to review their booking summary before confirming payment.  
+2. The system must support multiple payment methods (e.g., credit/debit card, bank transfer, mobile wallet).  
+3. Upon successful payment, the system should display a confirmation message and send an email receipt to the user.  
+4. If payment fails, the system should display an appropriate error message and allow the user to retry.  
+5. The system should securely store and process payment data following industry security standards (e.g., SSL encryption).  
+6. The system must update the booking status to “Confirmed” once payment is successful.  
+
+---
+
+By setting these criteria, both the client and development team have a shared understanding of when the “Checkout” feature is complete and ready for release.
+
